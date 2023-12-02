@@ -2,6 +2,16 @@
 
 Este repositorio contiene 6 proyectos de Python relacionados con diferentes aplicaciones de visión por computadora para el desarrollo del examen final del curso de Inteligencia Artificial. A continuación se describen brevemente cada uno de ellos:
 
+## Índice
+
+- [Contador de Monedas](#contador-de-monedas)
+- [Detección de Rostros](#detección-de-rostros)
+- [Detección de Rostros en tiempo real](#detección-de-rostros-en-tiempo-real)
+- [Detección de Objetos](#detección-de-objetos)
+- [Seguimiento de Ojos](#seguimiento-de-ojos)
+- [Reconocimiento de Dígitos](#reconocimiento-de-dígitos)
+- [Atribución](#atribución)
+
 ## Contador de Monedas
 
 Este proyecto utiliza técnicas de procesamiento de imágenes para contar el número de monedas en una imagen. Puede ser útil en aplicaciones de contabilidad o análisis financiero.
